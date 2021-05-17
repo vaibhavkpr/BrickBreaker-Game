@@ -23,14 +23,12 @@ public class Main {
 	static JButton playButton = new JButton();
 	static JButton instructionsButton = new JButton();
 	static JButton exitButton = new JButton();
-	
 		
 	//create images as icons
 	static ImageIcon dimage = new ImageIcon("Resources/background.jpg");	
 	static ImageIcon playimage = new ImageIcon("Resources/Play.png");
 	static ImageIcon helpimage = new ImageIcon("Resources/Help.png");
 	static ImageIcon exitimage = new ImageIcon("Resources/Exit.png");
-
 	
 	//Menu Screen
 	public static void Menu(){		
@@ -85,7 +83,6 @@ public class Main {
 		exitButton.setVisible(true);
 		
 		//label for background
-
 		background.setBounds(0,0, 700, 600);
 		background.setIcon(dimage);
 		menuPanel.add(background);
