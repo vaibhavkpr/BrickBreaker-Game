@@ -9,6 +9,8 @@ Its the recreation of the classic arcade game Breakout in which features a bounc
 
 ![MenuScreen](/Screenshots/MenuScreen.png)
 
+# In Game Level Screens
+
 ![Level 1](/Screenshots/InGame1.png)
 
 ![Level 2](/Screenshots/InGame2.png)
